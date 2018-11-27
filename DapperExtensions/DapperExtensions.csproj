@@ -9,6 +9,8 @@
    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
    <PackageProjectUrl>https://github.com/EmitKnowledge/Dapper-Extensions</PackageProjectUrl>
    <RepositoryUrl>https://github.com/EmitKnowledge/Dapper-Extensions</RepositoryUrl>
+   <Version>1.0.1</Version>
+   <AssemblyVersion>1.0.1.0</AssemblyVersion>
  </PropertyGroup>
 
  <ItemGroup>
