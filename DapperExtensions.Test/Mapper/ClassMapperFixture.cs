@@ -342,7 +342,7 @@ namespace DapperExtensions.Test.Mapper
 
         public class TestMapper<T> : ClassMapper<T> where T : class
         {
-            public PropertyMap Map(Expression<Func<T, object>> expression)
+            public new PropertyMap Map(Expression<Func<T, object>> expression)
             {
                 return base.Map(expression);
             }
